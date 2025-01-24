@@ -14,7 +14,7 @@ Subscribers](https://img.shields.io/badge/youtube-Connect-blue?style=social&logo
 
 ## Sobre mi
 
-- ⭐Visita mi <a href="https://edu-hernandez.github.io/WebHernandez/">Portafolio</a> 👋
+- ⭐Visita mi <a href="https://edu-hernandez.github.io/portfolio-edu/">Portafolio</a> 👋
 - 👀 Ingeniero De Sistemas
 <br>
 
@@ -25,7 +25,7 @@ Subscribers](https://img.shields.io/badge/youtube-Connect-blue?style=social&logo
 análisis de datos y arquitectura.
 ✍️ &nbsp;En mi tiempo libre me dedico a investigar nuevas tecnologías, programar y actividades secundarias.
 ✉️ &nbsp;You can shoot me an email at alaneduh231@gmail.com! I'll try to respond as soon as I can.
-📄 &nbsp;Please have a look at my [portafolio web](https://edu-hernandez.github.io/WebHernandez/) for more details
+📄 &nbsp;Please have a look at my [portafolio web](https://edu-hernandez.github.io/portfolio-edu/) for more details
 about me. I'm open to feedback and suggestions!
     
 <br>
@@ -44,6 +44,7 @@ about me. I'm open to feedback and suggestions!
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=flat-square&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/React-5A29E4?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
