@@ -1,7 +1,7 @@
 ### 
 
 <div align="center">
-    <h1 align="center">Hola, soy <a href="https://edu-hernandez.github.io/WebHernandez/">Alan Edu Hernandez</a> 👋</h1>
+    <h1 align="center">Hola, soy <a href="https://edu-hernandez.github.io/portfolio-edu/">Alan Edu Hernández</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/0GsfxBt.png">
 
