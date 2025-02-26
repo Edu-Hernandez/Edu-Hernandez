@@ -9,7 +9,6 @@
 Subscribers](https://img.shields.io/badge/youtube-Connect-blue?style=social&logo=youtube)](https://www.youtube.com/channel/UC1Ae9CyHuO5li9SiPpasVVw)
 [![GitHub followers](https://img.shields.io/badge/GitHub-Connect-blue?style=social&logo=GitHub)](https://github.com/edu-hernandez)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/alan-edu-hernandez-malca-1313a1280/)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-black?style=social&logo=tiktok)](https://www.tiktok.com/@pagwebed20?_t=8nlNIsYaVgT&_r=1)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?style=social&logo=whatsapp)](https://wa.me/+51927319124)
 
 ## Sobre mi
@@ -21,8 +20,8 @@ Subscribers](https://img.shields.io/badge/youtube-Connect-blue?style=social&logo
 ## Información
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-🌱 &nbsp;Ingeniero De Sistemas, me dedicación al desarrollo de software (backend y fronted), redes, base de datos,
-análisis de datos y arquitectura.
+🌱 &nbsp;Ingeniero De Sistemas, trabajo como desarrollador de software, además de eso tengo experiencia en base de datos, consumo de APIs,
+análisis de datos, arquitectura, soporte TI y gestión de proyectos. Tengo conocimientos en redes.
 ✍️ &nbsp;En mi tiempo libre me dedico a investigar nuevas tecnologías, programar y actividades secundarias.
 ✉️ &nbsp;You can shoot me an email at alaneduh231@gmail.com! I'll try to respond as soon as I can.
 📄 &nbsp;Please have a look at my [portafolio web](https://edu-hernandez.github.io/portfolio-edu/) for more details
