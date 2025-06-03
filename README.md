@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 **Ingeniero de Sistemas** trabajo como FullStack en desarrollo de web con React, Express y MongoDB.
+- 🎓 **Ingeniero de Sistemas** actualmente me desempeño como Desarrollador Full Stack, especializado en tecnologías como React, Express y MongoDB.
 - 🐉 **Explorador** de nuevas tecnologías y tendencias.
 - 🌍 **Abierto a colaborar** en proyectos innovadores.
 - 📬 **Contáctame:** [alaneduh231@gmail.com](mailto:alaneduh231@gmail.com)
