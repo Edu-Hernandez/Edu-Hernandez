@@ -7,10 +7,10 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 **Ingeniero de Sistemas** apasionado por el desarrollo de software, bases de datos, APIs y análisis de datos.
+- 🎓 **Ingeniero de Sistemas** trabajo como FullStack en desarrollo de web con React, Express y MongoDB.
 - 🐉 **Explorador** de nuevas tecnologías y tendencias.
-- 🌍 **Abierto a colaborar** en proyectos innovadores que dejen huella.
-- 📬 **Contáctame:** [alaneduh231@gmail.com](mailto:alaneduh231@gmail.com) | Siempre respondo rápido 😉
+- 🌍 **Abierto a colaborar** en proyectos innovadores.
+- 📬 **Contáctame:** [alaneduh231@gmail.com](mailto:alaneduh231@gmail.com)
 
 ---
 
