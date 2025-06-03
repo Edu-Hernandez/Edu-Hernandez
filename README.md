@@ -1,6 +1,6 @@
 <div align="center">
     <h1 style="font-size: 2.5em; color: #00b4d8;">¡Hola! Soy <a href="https://edu-hernandez.onrender.com/" style="color: #ff6b6b;">Alan Edu Hernández</a> 👨‍💻</h1>
-    <img src="https://i.imgur.com/0GsfxBt.png" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://i.imgur.com/EmZdvBQ.png" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
 ---
