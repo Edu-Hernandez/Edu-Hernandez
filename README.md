@@ -1,46 +1,63 @@
 <div align="center">
-    <h1 style="font-size: 2.5em; color: #00b4d8;">¡Hola! Soy <a href="https://edu-hernandez.onrender.com/" style="color: #ff6b6b;">Alan Edu Hernández</a> 👨‍💻</h1>
-    <img src="https://i.imgur.com/EmZdvBQ.png" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <div align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=$+Hi%2C+I'm+Alan+Edu+Hernandez;>_+Full+Stack+Developer;>_+Next.js+NestJS+React+MongoDB+PostgreSQL" />
+    </div>
+  
+  <p style="font-size: 1.2em; color: #555; max-width: 700px; margin: 0 auto;">
+    Ingeniero de Sistemas y Desarrollador Full Stack apasionado por la innovación, la tecnología y el aprendizaje continuo.
+  </p>
+
+  <img 
+    src="https://i.imgur.com/EmZdvBQ.png" 
+    width="90%" 
+    style="border-radius: 20px; margin-top: 20px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.25);"
+  />
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 🎓 **Ingeniero de Sistemas** actualmente me desempeño como Desarrollador Full Stack, especializado en tecnologías como React, Express y MongoDB.
-- 🐉 **Explorador** de nuevas tecnologías y tendencias.
-- 🌍 **Abierto a colaborar** en proyectos innovadores.
-- 📬 **Contáctame:** [alaneduh231@gmail.com](mailto:alaneduh231@gmail.com)
+- Desarrollador **Full Stack** especializado en **Next.js**, **NestJS**, **React**, **Express** y **MongoDB**.  
+- En constante evolución, me gusta participar en proyectos que desafíen mis habilidades y me permitan seguir creciendo.  
+- Me motiva el impacto real que la tecnología puede generar cuando se combina con la creatividad.  
+- Busco formar parte de equipos que impulsen la innovación y el desarrollo profesional mutuo.
 
 ---
 
-## 🌐 Conéctate conmigo
+## Conéctate conmigo
+
+<div align="center" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/alan-edu-hernandez-malca-1313a1280/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/edu-hernandez">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://wa.me/+51927319124">
+    <img src="https://img.shields.io/badge/WhatsApp-Contacto-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a>
+  <a href="https://www.youtube.com/channel/UC1Ae9CyHuO5li9SiPpasVVw">
+    <img src="https://img.shields.io/badge/YouTube-Suscríbete-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
+  </a>
+</div>
+
+---
+
+## Tech Stack
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/alan-edu-hernandez-malca-1313a1280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-    <a href="https://github.com/edu-hernandez"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
-    <a href="https://wa.me/+51927319124"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
-    <a href="https://www.youtube.com/channel/UC1Ae9CyHuO5li9SiPpasVVw"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,express,laravel,python,postgresql,mongodb,mysql,php,html,css,js,git,github" style="margin: 10px;" />
 </div>
 
 ---
 
-## 🛠 Mi Tech Stack
+## GitHub Stats
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,flutter,react,express,flask,python,mysql,mongodb,java,php,html,css,js,git,github,powerbi" style="margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=edu-hernandez&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edu-hernandez&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
 ---
 
-## 📈 Mis Stats en GitHub
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu-hernandez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="margin: 5px;" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-hernandez&layout=compact&langs_count=8&theme=dracula" style="margin: 5px;" />
-</div>
-
-
----
-
-> ✨ *"La confusión es solo el primer paso hacia el aprendizaje. ¡Sigue codificando y conquistando!"* 🚀
