@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-- Desarrollador **Full Stack** especializado en **Next.js**, **NestJS**, **React**, **Express** y **MongoDB**.  
+- Desarrollador **Full Stack** manejando tecnologías como **Next.js**, **NestJS**, **React**, **React Native**, **Express** y **MongoDB**.  
 - En constante evolución, me gusta participar en proyectos que desafíen mis habilidades y me permitan seguir creciendo.  
 - Me motiva el impacto real que la tecnología puede generar cuando se combina con la creatividad.  
 - Busco formar parte de equipos que impulsen la innovación y el desarrollo profesional mutuo.
